@@ -1,0 +1,11 @@
+Class name: StackDriver
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Handles basic functionality of a stack such as push and pop
+
+Collaborators:
+* Stack
+* FileSystemDriver
+* CurrentDirectory

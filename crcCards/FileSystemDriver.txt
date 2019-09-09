@@ -1,0 +1,12 @@
+Class name: FileSystemDriver
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Handles interaction with the file system's files and directories
+* Keeps track of the root and the current working directory
+
+Collaborators:
+* CObject
+* CDir
+* CFile

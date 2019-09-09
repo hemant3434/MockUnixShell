@@ -1,0 +1,13 @@
+Class name: StringOutput
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Outputs a String if no outfile is given
+* If an outfile is given, and input is >, edits the outfile to contain only the inputted string
+* If an outfile is given, and input is >>, appends the inputted string into outfile (adds onto it)
+* If outfile is given, but currently does not exist, create outfile with inputted string as data
+
+Collaborators:
+* Validator
+* FileSystemDriver

@@ -1,0 +1,19 @@
+1. As a user, I should be able to move or copy             6 days
+files within directories to different locations.
+
+2. As a user, I should be able to get files from           5 days
+a URL address.
+
+3. As a user I should be able to save and load a           6 days
+previous state of a shell that was created before.
+
+4. As a user, I should be able to find files that          5 days
+have the same name as the input through the entire 
+shell and find their path locations.
+
+5. As a user, I must be able to see the tree path          6 days
+of the shell.
+ 
+6. As a user, I should be able to send the output          3 days
+of a function into a file, and if the file does not
+ exist, create the file with the output in it.

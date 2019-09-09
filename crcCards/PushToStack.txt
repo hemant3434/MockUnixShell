@@ -1,0 +1,12 @@
+Class name: PushToStack
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Allows the user to push a working directory onto stack and cd into 
+  another directory
+
+Collaborators:
+* FileSystemDriver
+* StackDriver
+* Validator

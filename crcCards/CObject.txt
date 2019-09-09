@@ -1,0 +1,10 @@
+Class name: CObject
+Parent class (if any): 
+Subclasses (if any): CDir, CFile
+
+Responsibilities:
+* Responsible for representing directories and files in a file system and their
+  basic functions
+
+Collaborators:
+* CDir

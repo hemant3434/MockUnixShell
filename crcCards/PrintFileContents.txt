@@ -1,0 +1,11 @@
+Class name: PrintFileContents
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Allows user to see the contents of specified files
+
+Collaborators:
+*FileSystemDriver
+*CObject
+*Validator

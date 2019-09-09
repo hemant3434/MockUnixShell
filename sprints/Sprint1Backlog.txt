@@ -1,0 +1,37 @@
+Sprint 1 Backlog.  
+July 11 to July 17
+
+User Stories from Product Backlog that we will address in this sprint:
+a)As a user, I want to be able to see the current working directory with its 
+full path and be able to output to a file.
+b)As a user, I should be able to save the state of the shell to be used for
+later times.
+c)As a user, I should be able to send the output of a function into a
+file, and if the file does not exist, create the file with the output in it.
+d)As a user, I should be able to see the documentation for every command.
+e)As a user, I want to be able to see the contents in the current directory, or see the contents 
+of a specific directory, if R is present, recursively list all subdirectories.
+
+Specific tasks to be accomplished:
+a-1. (PrintCurrentDir) Add to code from part a to be able to append/write 
+to a file
+b-1. (SaveState) Write base code for the save state class
+c-1. (OutfileOutput) Write a function that any command can call to append/write to a file
+d-1. (Man) Update manual to address new commands
+e-1. (PrintContents) Add recursive method for ls to list subdirectorys.
+f-1. (GetFileAtURL) Write code for the 'get' command
+g-1. (FindObjects) Write code for the 'find' command
+
+These tasks are assigned as follows:
+
+User: Hemant
+Tasks: a-1, b-1
+
+User: member
+Tasks: c-1, d-1
+
+User: member
+Tasks: e-1
+
+User: member
+Tasks: f-1, g-1

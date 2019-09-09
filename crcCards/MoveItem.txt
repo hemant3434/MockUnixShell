@@ -1,0 +1,12 @@
+Class name: MoveItem
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Moves files from specified oldpath (including oldpath) into newpath
+(Moving means the file in oldpath will no longer be there)
+* Renames file if newpath is valid but location does not exist
+
+Collaborators:
+* Validator
+* FileSystemDriver

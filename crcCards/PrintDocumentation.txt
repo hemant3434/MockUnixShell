@@ -1,0 +1,9 @@
+Class name: PrintDocumentation
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Prints out documentation for inputted command
+
+Collaborators:
+* 

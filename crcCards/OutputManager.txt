@@ -1,0 +1,9 @@
+Class name: OutputManager
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Manages output so that it is directed to a file if needed or printed to the console
+
+Collaborators:
+* FileSystemDriver

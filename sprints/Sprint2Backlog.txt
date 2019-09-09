@@ -1,0 +1,42 @@
+Sprint 2 Backlog.  
+July 18 to July 26
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be able to load a previous state of the shell that was 
+   created before.
+b) As a user, I should be able to save the state of the shell to be used for 
+   later times.
+c) As a user, I should be able to use cd, popd, pushd, save and load states 
+   without any bugs
+d) As a user, I should be able to move or copy 
+   files within directories to different locations.
+e) As a user, I should be able to send the output of a function into a 
+   file, and if the file does not exist, create the file with the output in it.
+f) As a user, I should be able to use mkdir, tree, find without any bugs
+g) As a user, I should have access to documentation of all the commands available
+h) As a user, I should be able to direct the output of any command to a file if needed
+i)
+
+Specific tasks to be accomplished:
+a-1. (LoadState) Finish implementing conversion from serialized bytes to object
+b-1. (SaveState) Finish implementing conversion from object to serialized bytes
+c-1. (Test) Finish unit tests for cd, popd, pushd, save and load states
+d-1. (CopyFile) Finish implementing copying files
+d-2. (MoveFile) Finish implementing moving files
+e-1. (OutputFile) Readjust code to use redirection
+f-1. (Test) Implement unit tests involving mkdir, tree, find and general file system tasks
+g-1. (Documentation) Write documentation for classes missing documentation including my classes
+h-1. (OutputManager) Write code to take output and send to console and/or file if needed
+i-1. (PrintFileContents) Write code for cat to take multiple arguments
+
+User: Hemant 
+Tasks: a-1, b-1, c-1
+
+User: member
+Tasks: d-1, d-2, e-1
+
+User: member
+Tasks: f-1, g-1
+
+User: member
+Tasks: h-1, i-1

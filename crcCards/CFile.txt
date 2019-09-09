@@ -1,0 +1,9 @@
+Class name: CFile
+Parent class (if any): CObject
+Subclasses (if any): 
+
+Responsibilities:
+* Responsible for representing a file and its properties in a file system
+
+Collaborators:
+* 

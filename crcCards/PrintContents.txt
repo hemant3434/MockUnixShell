@@ -1,0 +1,12 @@
+Class name: PrintContents
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Allows user to see the contents of specified directories
+* If no directories are specified, shows the contents of current working directory
+
+Collaborators:
+*CObject
+*FileSystemDriver
+*Validator

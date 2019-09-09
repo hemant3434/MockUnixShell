@@ -1,0 +1,12 @@
+Class name: Validator
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Responsible for validating user arguments
+
+Collaborators:
+* CDir
+* CFile
+* CObject
+* FileSystemDriver

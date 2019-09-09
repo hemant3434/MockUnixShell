@@ -1,0 +1,10 @@
+Class name: CurrentDirectory
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Allows the user to change the current working directory
+
+Collaborators:
+* FileSystemDriver
+* Validator

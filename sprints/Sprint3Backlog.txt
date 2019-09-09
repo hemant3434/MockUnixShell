@@ -1,0 +1,47 @@
+Sprint 2 Backlog.  
+June 27 to July 4
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be able to change directories without any problems
+b) As a user i should be able to use the pushd, popd and stack without any 
+   problems
+c) As a user, I should be able to create directories in a given location,
+   or create a directory in the current location if none is given.
+d) As a user, I want to be able to see the current working directory with 
+   its full path.
+e) As a user, I should be able to print a string into the shell, or input
+   the string into a given file by deleting all content in file then adding
+   the inputted string. If the file doesn't exist, I should be able to create
+   the file with the given name.
+f) As a user, I should be able to print a string into the shell, or input the
+   string into a given file by adding onto the end of the file. If the file
+   doesn't exist, I should be able to create the file with the given name.
+g) As a user, I should be able to display the contents of a given file with the 
+   contents of other files (if given).
+h) As a user, I want to be able to see the contents in the current directory, or 
+   see the contents of a specific directory. If my input is invalid, I should see 
+   an error message.
+
+Specific tasks to be accomplished:
+a-1. (CurrentDirectory) Finish testing the cd class
+b-1. (PushToStack) Finish testing pushd command class
+b-2. (PopFromStack) Finish testing popd command class
+c-1. (MakeDir) Finish debugging MakeDir command class
+d-1. (PrintWorkingDir) Create, finish and debug the mkdir command
+e-1. (Echo) Contribute to the creation of file part of echo command
+e-2. (Echo) Create the code for outputting to shell and adding to files
+f-1. (Echo) Create code for appending onto files
+g-1. (PrintFileContents) Finish testing the cat command
+h-1. (PrintContents) Finish testing the ls command
+
+User: Hemant 
+Tasks: a-1, b-1, b-2
+
+User: member
+Tasks: c-1, d-1, e-1
+
+User: member
+Tasks: e-2, f-1
+
+User: member
+Tasks: g-1, h-1

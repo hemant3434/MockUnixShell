@@ -1,0 +1,11 @@
+Class name: PopFromStack
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Allows user to pop a directory from the stack and cd into it
+
+Collaborators:
+* FileSystemDriver
+* StackDriver
+* Validator

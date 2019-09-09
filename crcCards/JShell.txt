@@ -1,0 +1,20 @@
+Class name: JShell
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Allows the user to input various commands and use the shell
+
+Collaborators:
+* FileSystemDriver
+* RecentCommands
+* StackDriver
+* PushToStack
+* PopFromStack
+* CurrentDirectory
+* PrintCurrentDir
+* PrintContents
+* MakeDir
+* PrintFileContents
+* StringOutput
+* PrintDocumentation

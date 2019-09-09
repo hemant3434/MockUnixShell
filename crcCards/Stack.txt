@@ -1,0 +1,9 @@
+Class name: Stack
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Created a stack system for the user
+
+Collaborators:
+* CDir

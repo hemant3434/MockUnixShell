@@ -1,0 +1,12 @@
+Class name: CopyItem
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Copies files from specified oldpath (including oldpath) into newpath
+(Copying means the file in oldpath will still be there.)
+* Renames file if newpath is valid but location does not exist
+
+Collaborators:
+* Validator
+* FileSystemDriver

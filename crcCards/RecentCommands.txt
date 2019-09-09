@@ -1,0 +1,10 @@
+Class name: RecentCommands
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Returns the full history of every command inputted
+* Returns the most recent history of commands inputted up to the inputted number
+
+Collaborators:
+* 

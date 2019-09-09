@@ -1,0 +1,13 @@
+Class name: OutputFile
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* If input is >, edits the outfile to contain only the inputted string
+* If input is >>, appends the inputted string into outfile (adds onto it)
+* If outfile is given, but currently does not exist, create outfile with inputted string as data
+
+Collaborators:
+* Validator
+* FileSystemDriver
+* OutputManager
